@@ -9,7 +9,7 @@ export const Navbar = () => {
                 <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div className="navbar-nav">
+                    <div className="navbar-nav ms-auto me-0">
                         <a className="text-light nav-link active" aria-current="page" href="#">Home</a>
                         <a className="text-light nav-link" href="#">About</a>
                         <a className="text-light nav-link" href="#">Services</a>
